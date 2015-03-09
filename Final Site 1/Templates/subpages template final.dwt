@@ -153,13 +153,11 @@ body {
 
 <body>
 <div id="apDiv2"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/Title fonts 2.png" width="716" height="86" /></div>
-<div id="apDiv12"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/About sidebar.png" width="225" height="119" /></div>
-<div id="apDiv13"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/Service Sheets sidebar.png" width="232" height="136" /></div>
-<div id="apDiv14"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/Events sidebar.png" width="229" height="122" /></div>
+<div id="apDiv12"><img src="../../About sidebar.png" /></div>
+<div id="apDiv13"><a href="../../Dhaval.html"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/Service Sheets sidebar.png" width="232" height="136" /></a></div>
+<div id="apDiv14"><img src="../../Events sidebar.png" width="229" height="122" /></div>
 <div id="apDiv15"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/Photos sidebar.png" width="227" height="128" /></div>
 <div id="apDiv16"><iframe src="https://docs.google.com/forms/d/1ZHQsY95rOkZguDibrRYHssL6OdlGdLAkrDkk7qsQetw/viewform?embedded=true" width="644" height="860" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
-<div id="apDiv4">
-<iframe src=</div>
 <div id="apDiv5"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
 <div id="apDiv10"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/CTD-Planning-Site-CLau/Final-Website/AIS LOGO2.png" width="164" height="162" /></div>
 </body>
