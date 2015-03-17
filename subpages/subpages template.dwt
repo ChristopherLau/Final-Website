@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:54px;
+	top:30px;
+	width:198px;
+	height:179px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:336px;
+	top:29px;
+	width:809px;
+	height:72px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:301px;
+	top:121px;
+	width:912px;
+	height:75px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:22px;
+	top:228px;
+	width:257px;
+	height:457px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:301px;
+	top:226px;
+	width:912px;
+	height:459px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:338px;
+	top:141px;
+	width:143px;
+	height:39px;
+	z-index:6;
+}
+#apDiv7 {
+	position:absolute;
+	left:562px;
+	top:140px;
+	width:141px;
+	height:38px;
+	z-index:7;
+}
+#apDiv8 {
+	position:absolute;
+	left:813px;
+	top:139px;
+	width:141px;
+	height:36px;
+	z-index:8;
+}
+#apDiv9 {
+	position:absolute;
+	left:1034px;
+	top:139px;
+	width:141px;
+	height:34px;
+	z-index:9;
+}
+</style>
+</head>
+
+<body>
+<div id="apDiv1"><img src="AIS LOGO.png" width="198" height="178" /></div>
+<div id="apDiv2">Community Service Club</div>
+<div id="apDiv3">
+  <p>&nbsp;</p>
+</div>
+<div id="apDiv4">SIGN UP form</div>
+<div id="apDiv5"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
+<div id="apDiv6">about</div>
+<div id="apDiv7">events</div>
+<div id="apDiv8">photos</div>
+<div id="apDiv9">service hour sheets</div>
+</body>
+</html>

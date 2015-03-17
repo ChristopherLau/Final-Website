@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<subpages_template_final template="Templates/subpages template final.dwt" codeOutsideHTMLIsLocked="false">
+   <doctitle><![CDATA[
+<title>Untitled Document</title>
+]]></doctitle>
+   <content><![CDATA[
+  <p><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final Community Service Club site/Events name.png" width="261" height="87" /></p>
+  <p><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final Community Service Club site/March 201502.png" width="154" height="33" /></p>
+  <p>03.01 Cookie Campaign by Helping Hands  </p>
+  <p>(Samantha Dai, Alex Chang, Noan, Jacky Kwok, Alson Lee)</p>
+  <p>03.15 MSF Orientation Competition 2015 by Medicins Sans Frontiers</p>
+  <p>(Joshua Chow, Miffy Ng)</p>
+  <p>03.21 Operation Dawn (Flag Day) </p>
+  <p>(Wendy Han, Judy Lee)</p>
+  <p>03.22 Action Asia by Water Station</p>
+  <p>(Kelly Lo, Nina Ding, Selina Lin, Celia Ho)</p>
+  <p><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final Community Service Club site/april 201502.png" width="142" height="36" /></p>
+  <p>04.11 Cross Roads - organizing goods</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+]]></content>
+   <head><![CDATA[
+<style type="text/css">
+#apDiv5 p {
+	font-weight: bold;
+}
+#apDiv5 p {
+	font-weight: normal;
+}
+</style>
+]]></head>
+</subpages_template_final>

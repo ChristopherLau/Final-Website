@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#apDiv1 {
+	position:absolute;
+	left:54px;
+	top:30px;
+	width:198px;
+	height:178px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:336px;
+	top:29px;
+	width:809px;
+	height:72px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:301px;
+	top:121px;
+	width:912px;
+	height:75px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:22px;
+	top:228px;
+	width:267px;
+	height:457px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:301px;
+	top:226px;
+	width:912px;
+	height:459px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:328px;
+	top:141px;
+	width:124px;
+	height:38px;
+	z-index:6;
+}
+#apDiv7 {
+	position:absolute;
+	left:479px;
+	top:139px;
+	width:124px;
+	height:39px;
+	z-index:7;
+}
+#apDiv8 {
+	position:absolute;
+	left:633px;
+	top:138px;
+	width:124px;
+	height:41px;
+	z-index:8;
+}
