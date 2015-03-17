@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:62px;
+	top:90px;
+	width:147px;
+	height:131px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:336px;
+	top:29px;
+	width:1306px;
+	height:93px;
+	z-index:2;
+	text-align: center;
+}
+#apDiv3 {
+	position:absolute;
+	left:38px;
+	top:277px;
+	width:240px;
+	height:454px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:338px;
+	top:128px;
+	width:808px;
+	height:257px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:332px;
+	top:326px;
+	width:642px;
+	height:866px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:83px;
+	top:350px;
+	width:143px;
+	height:39px;
+	z-index:6;
+}
+#apDiv7 {
+	position:absolute;
+	left:82px;
+	top:439px;
+	width:141px;
+	height:38px;
+	z-index:7;
+}
+#apDiv8 {
+	position:absolute;
+	left:82px;
+	top:526px;
+	width:141px;
+	height:36px;
+	z-index:8;
+}
+#apDiv9 {
+	position:absolute;
+	left:81px;
+	top:613px;
+	width:141px;
+	height:34px;
+	z-index:9;
+}
+body {
+	background-color: #FFF;
+}
+#apDiv10 {
+	position:absolute;
+	left:103px;
+	top:21px;
+	width:164px;
+	height:158px;
+	z-index:6;
+}
+#apDiv11 {
+	position:absolute;
+	left:338px;
+	top:127px;
+	width:802px;
+	height:313px;
+	z-index:7;
+}
+#apDiv12 {
+	position:absolute;
+	left:421px;
+	top:145px;
+	width:236px;
+	height:127px;
+	z-index:8;
+}
+#apDiv13 {
+	position:absolute;
+	left:1320px;
+	top:138px;
+	width:223px;
+	height:124px;
+	z-index:9;
+}
+#apDiv14 {
+	position:absolute;
+	left:718px;
+	top:146px;
+	width:226px;
+	height:120px;
+	z-index:10;
+}
+#apDiv15 {
+	position:absolute;
+	left:1027px;
+	top:148px;
+	width:225px;
+	height:128px;
+	z-index:11;
+}
+#apDiv16 {
+	position:absolute;
+	left:994px;
+	top:324px;
+	width:644px;
+	height:860px;
+	z-index:12;
+}
+#apDiv17 {
+	position:absolute;
+	left:30px;
+	top:334px;
+	width:274px;
+	height:474px;
+	z-index:13;
+}
+</style>
+</head>
+
+<body>
+<div id="apDiv2"><img src="Title fonts 2.png" width="716" height="86" /></div>
+<div id="apDiv12"><img src="About sidebar.png" width="228" height="124" /></div>
+<div id="apDiv13"><img src="Service Sheets sidebar.png" width="221" height="125" /></div>
+<div id="apDiv14"><img src="Events sidebar.png" width="229" height="122" /></div>
+<div id="apDiv15"><img src="Photos sidebar.png" width="223" height="122" /></div>
+<div id="apDiv16"><iframe src="https://docs.google.com/forms/d/1ZHQsY95rOkZguDibrRYHssL6OdlGdLAkrDkk7qsQetw/viewform?embedded=true" width="644" height="860" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
+<div id="apDiv4">
+<iframe src=</div>
+<div id="apDiv5"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
+<div id="apDiv10"><img src="AIS LOGO2.png" width="164" height="162" /></div>
+</body>
+</html>
