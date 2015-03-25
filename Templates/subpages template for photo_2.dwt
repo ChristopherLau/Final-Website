@@ -258,12 +258,12 @@ function MM_preloadImages() { //v3.0
 </head>
 
 <body onload="MM_preloadImages('file:///Macintosh HD/Users/CTD-2/Desktop/GitHub/Community Service Club - Final/Buttons/Buttons_r1_c2_s2.jpg')">
-<div id="apDiv2"><a href="../F/Homepage.html"><img src="../Title fonts 2.png" width="750" height="86" /></a></div>
+<div id="apDiv2"><a href="../F/Final final &quot;real&quot; final/Homepage.html"><img src="../Title fonts 2.png" width="750" height="86" /></a></div>
 <div id="apDiv5"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
-<div id="apDiv10"><img src="../AIS LOGO2.png" width="98" height="92" /></div>
-<div id="apDiv20"><img src="../Service Sheets sidebar.png" width="228" height="130" /></div>
-<div id="apDiv"><a href="../F/About page .html"><img src="../About sidebar.png" width="228" height="124" /></a></div>
-<div id="apDiv3"><a href="../F/Events page .html"><img src="../Events sidebar.png" width="229" height="122" /></a></div>
-<div id="apDiv4"><a href="../SP-Photo_2.html"><img src="../Photos sidebar.png" width="228" height="125" /></a></div>
+<div id="apDiv10"><a href="Drag to a file to make a link."><img src="../AIS LOGO2.png" width="98" height="92" /></a></div>
+<div id="apDiv20"><a href="../F/Final final &quot;real&quot; final/ServiceSheets.html"><img src="../Service Sheets sidebar.png" width="228" height="130" /></a></div>
+<div id="apDiv"><a href="../F/Final final &quot;real&quot; final/About.html"><img src="../About sidebar.png" width="228" height="124" /></a></div>
+<div id="apDiv3"><a href="../F/Final final &quot;real&quot; final/Events page .html"><img src="../Events sidebar.png" width="229" height="122" /></a></div>
+<div id="apDiv4"><a href="../F/Final final &quot;real&quot; final/SP-Photo_2.html"><img src="../Photos sidebar.png" width="228" height="125" /></a></div>
 </body>
 </html>
